@@ -5,7 +5,7 @@ from banco import Banco
 if __name__ == '__main__':
     
     c1 = Cliente("Leo", "4444-5555")
-    c2 = Cliente("Vitoria", "7777-1313")
+    c2 = Cliente("Teste", "7777-1313")
         
        
 #Manipulação de conta--------
